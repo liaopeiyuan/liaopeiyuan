@@ -20,11 +20,7 @@ I also write code for [a Pittsburgh-Chicago-based startup on real-time capture s
 
 I am an open-source enthusiast and a freelance machine learning engineer. While at school, I focused/am focusing on topics that live in the intersection of machine learning and systems engineering.
 
-Some awesome communities I'm involved with:
-
-- [tr5](tr5.org)
-- [Recurse Center](recurse.com)
-- [Kaggle](kaggle.com)
+Some awesome communities I'm involved with: [tr5](tr5.org), [Recurse Center](recurse.com), [Kaggle](kaggle.com)
 
 ## Get in touch
 
