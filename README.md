@@ -18,11 +18,16 @@ I help organize an [academic retreat in Beijing](https://luntan.io/).
 
 I also write code for [a Pittsburgh-Chicago-based startup on real-time capture solutions for virtual personalities and youtubers/livers/“UP主” (uploaders)](planemirror.tech).
 
-While at school, I focused/am focusing on topics that live in the intersection of **machine learning**, **systems engineering** and **programming language theory**. I've had the honor of working with Han Zhao and Keyulu Xu on graph neural networks in the past.
+I am an open-source enthusiast and a freelance machine learning engineer. While at school, I focused/am focusing on topics that live in the intersection of machine learning and systems engineering.
 
 Some awesome communities I'm involved with:
 
 - [tr5](tr5.org)
 - [Recurse Center](recurse.com)
 - [Kaggle](kaggle.com)
+
+## Get in touch
+
+[![](https://img.shields.io/badge/-alexander_liao-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:alexander_liao@outlook.com)
+![](https://img.shields.io/badge/-https://www.liaopeiyuan.com-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)
 
