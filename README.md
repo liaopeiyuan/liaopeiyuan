@@ -16,8 +16,6 @@
 
 I help organize an [academic retreat in Beijing](https://luntan.io/).
 
-I also write code for [a Pittsburgh-Chicago-based startup on real-time capture solutions for virtual personalities and youtubers/livers/“UP主” (uploaders)](https://planemirror.tech/).
-
 I am an open-source enthusiast and a freelance machine learning engineer. While at school, I focused/am focusing on topics that live in the intersection of machine learning and systems engineering.
 
 Some awesome communities I'm involved with: [tr5](https://tr5.org/), [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/)
