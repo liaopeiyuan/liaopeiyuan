@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-I help organize an [academic retreat in Beijing](https://luntan.io/).
+I help organize a [tech entrepreneurship community in Beijing](https://lun-tan.com/).
 
 I am an open-source enthusiast and a freelance machine learning engineer. While at school, I focused/am focusing on topics that live in the intersection of machine learning and systems engineering.
 
