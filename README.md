@@ -4,8 +4,6 @@
 
 ## Peiyuan Liao
 
-*When in doubt, Unsafe.Coerce*
-
 ![](https://img.shields.io/badge/-OCaml-e5cd0c?style=flat-square&logo=OCaml&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
