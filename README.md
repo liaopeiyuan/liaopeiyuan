@@ -14,7 +14,7 @@
 
 I help organize a [tech entrepreneurship community in Beijing](https://lun-tan.com/).
 
-I am also an open-source enthusiast and currently a machine learning engineer at a startup. Recently, I was an undergraduate student at CMU School of Computer Science. My research focuses on topics that live at the intersection of machine learning and systems engineering. I'm currently taking a gap semester.
+I am also an open-source enthusiast and currently a machine learning engineer at a startup. Recently, I am an undergraduate student at CMU School of Computer Science. My research focuses on topics that live at the intersection of machine learning and systems engineering. I'm currently taking a gap semester.
 
 Some awesome communities I'm involved with: [tr5](https://tr5.org/), [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/)
 
