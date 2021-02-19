@@ -5,18 +5,15 @@
 ## Peiyuan Liao
 
 ![](https://img.shields.io/badge/-OCaml-e5cd0c?style=flat-square&logo=OCaml&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C-c14438?style=flat-square&logo=C&logoColor=fff)
 
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-I help organize a [tech entrepreneurship community in Beijing](https://lun-tan.com/).
+I am an open-source enthusiast and currently a machine learning engineer at a startup. I am also working towards an undergraduate degree in computer science at Carnegie Mellon University. I'm interested in creating fun and smart systems at scale. 
 
-I am also an open-source enthusiast and currently a machine learning engineer at a startup. Recently, I am an undergraduate student at CMU School of Computer Science. My research focuses on topics that live at the intersection of machine learning and systems engineering.
-
-Some awesome communities I'm involved with: [tr5](https://tr5.org/), [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/)
+Some awesome communities I'm involved with: [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/alexanderliao)
 
 ## Get in touch
 
