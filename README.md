@@ -1,6 +1,6 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liaopeiyuan&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
+<div align='center'>
+  <img height=300 src='https://media.giphy.com/media/12Gyz2J1b9SjD2/giphy.gif' />
+</div>
 
 ## Peiyuan Liao
 
