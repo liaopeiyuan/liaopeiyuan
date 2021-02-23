@@ -14,9 +14,3 @@
 I am an open-source enthusiast and currently a machine learning engineer at a startup. I am also working towards an undergraduate degree in computer science at Carnegie Mellon University. I'm interested in creating fun and smart systems at scale. 
 
 Some awesome communities I'm involved with: [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/alexanderliao)
-
-## Get in touch
-
-[![](https://img.shields.io/badge/-alexander_liao-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:alexander_liao@outlook.com)
-![](https://img.shields.io/badge/-https://www.liaopeiyuan.com-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)
-
