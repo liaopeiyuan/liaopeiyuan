@@ -2,12 +2,9 @@
   <img height=300 src='https://media.giphy.com/media/12Gyz2J1b9SjD2/giphy.gif' />
 </div>
 
-## Peiyuan Liao
-
 ![](https://img.shields.io/badge/-OCaml-e5cd0c?style=flat-square&logo=OCaml&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C-c14438?style=flat-square&logo=C&logoColor=fff)
-
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
