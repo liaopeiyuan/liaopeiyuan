@@ -1,5 +1,5 @@
 <div align='center'>
-  <img height=300 src='https://media.giphy.com/media/12Gyz2J1b9SjD2/giphy.gif' />
+  <img height=300 src='https://github.com/liaopeiyuan/liaopeiyuan/blob/master/boogiepop.gif?raw=true' />
 </div>
 
 I am an open-source enthusiast and currently a machine learning engineer at a startup. I am also working towards an undergraduate degree in computer science at Carnegie Mellon University. I'm interested in creating fun and smart systems at scale. 
