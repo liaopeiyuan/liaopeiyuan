@@ -2,6 +2,4 @@
   <img height=300 src='https://github.com/liaopeiyuan/liaopeiyuan/blob/master/boogiepop.gif?raw=true' />
 </div>
 
-I am a machine learning engineer at a startup. I am also working towards an undergraduate degree in computer science at Carnegie Mellon University. I'm interested in creating fun and smart systems at scale. 
-
-Some awesome communities I'm involved with: [Recurse Center](https://recurse.com/), [Kaggle](https://kaggle.com/alexanderliao)
+I'm currently a machine learning lead at Praxis Pioneering. I care deeply about creating human-level engineering intelligence and supporting them with the computing infrastructure of the future. In my past life, I was a top-ranking competitive machine learning engineer on Kaggle, an intern at a crypto unicorn and a MLSaaS startup, and a researcher at CMU's Catalyst Group working on deep learning compilers.
